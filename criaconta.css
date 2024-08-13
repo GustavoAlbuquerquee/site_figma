@@ -1,0 +1,124 @@
+body {
+  background-image: url(piotr-szulawski-DCmUhk54F6M-unsplash\ 1.png);
+  background-size: cover;
+}
+* {
+  margin: 0;
+}
+#titulopedidos {
+  color: #ffffff;
+  font-size: 70px;
+  text-align: center;
+  margin-top: 50px;
+}
+#subtitulopedidos {
+  color: #333333;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 60px;
+  margin-top: 130px;
+  margin-left: 65px;
+  position: absolute;
+}
+#textoscima1 {
+  display: flex;
+  margin-top: 100px;
+  position: absolute;
+  margin-left: -20px;
+  width: 100%;
+}
+#textoscima1 > p {
+  color: #ffffff;
+  font-size: 45px;
+  text-align: center;
+  align-items: center;
+  width: 100%;
+}
+#textoscima2 {
+  display: flex;
+  margin-top: 270px;
+  position: absolute;
+  margin-left: -20px;
+  width: 100%;
+}
+#textoscima2 > p {
+  color: #ffffff;
+  font-size: 45px;
+  text-align: center;
+  align-items: center;
+  width: 100%;
+}
+#email {
+  margin-left: 680px;
+}
+#mensagem {
+  margin-left: 650px;
+}
+#caixatextos1 {
+  display: flex;
+  margin-top: 180px;
+  position: absolute;
+  align-items: center;
+  width: 100%;
+}
+
+#txtbox1 {
+  margin-left: 550px;
+  width: 700px;
+  height: 0px;
+  border-radius: 20px;
+  background-color: #e7e7e7;
+  outline: 0;
+  font-size: 30px;
+  padding: 30px 30px;
+  color: #000000;
+  align-items: center;
+}
+#caixatextos2 {
+  display: flex;
+  margin-top: 350px;
+  position: absolute;
+  align-items: center;
+  width: 100%;
+}
+
+#txtbox2 {
+  margin-left: 550px;
+  width: 700px;
+  height: 0px;
+  border-radius: 20px;
+  background-color: #e7e7e7;
+  outline: 0;
+  font-size: 30px;
+  padding: 30px 30px;
+  color: #000000;
+  align-items: center;
+}
+#caixatextos3 {
+  display: flex;
+  margin-top: 530px;
+  position: absolute;
+  align-items: center;
+  width: 100%;
+}
+
+#textoscima3 {
+  display: flex;
+  margin-top: 450px;
+  position: absolute;
+  margin-left: -20px;
+  width: 100%;
+}
+#textoscima3 > p {
+  color: #ffffff;
+  font-size: 45px;
+  text-align: center;
+  align-items: center;
+  width: 100%;
+}
+
+#x {
+  text-align: left;
+  margin-left: 100px;
+  margin-top: -80px;
+}
